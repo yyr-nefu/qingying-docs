@@ -1,6 +1,6 @@
 # qingying-docs
 # 🚀 轻影 II | 架构设计与竞品分析中心
-> **[🔗 点击进入：轻影 II 在线交互演示页面](https://qingying.vercel.app/)**
+> **[🔗 点击进入：轻影 II 在线交互页面](https://qingying.vercel.app/)**
 
 欢迎来到“轻影 II”的设计文档库。这里记录了项目从逻辑架构到市场分析的完整思考过程。
 
